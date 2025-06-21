@@ -1,0 +1,17 @@
+{
+  "name": "full_stack",
+  "version": "1.0.0",
+  "description": "\"Backend project\"",
+  "keywords": [
+    "backend",
+    "node",
+    "mongoose"
+  ],
+  "license": "ISC",
+  "author": "Rupesh Pal",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
